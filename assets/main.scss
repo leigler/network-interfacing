@@ -1,0 +1,66 @@
+---
+---
+
+*{
+	padding: 0;
+	margin: 0;
+	font-weight: 300;
+	font-size: 1rem;
+	line-height: 1.4rem;
+}
+
+
+html{
+	background-color: #f4f4f4;
+	color: #3a3a3a;
+	font-family: TimesNewRoman, "TimesNewRoman", serif;
+	font-size: 30px;
+	padding: 0.5rem;
+	box-sizing: border-box;
+}
+
+hr{
+	height: 2px;
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+	background-color: #3a3a3a;
+	border: none;
+	width: 50%;
+
+}
+
+a:hover{
+	font-style: italic;
+
+}
+
+h1, h2, h3, h4, h5, h6, p, a{
+	margin-bottom: 0.5rem;
+	width: 50%;
+}
+
+p{
+	margin-left: 1rem;
+}
+
+@media(max-width: 1000px){
+	*{
+		font-size: 0.75rem;
+		line-height: 1rem;
+	}
+
+	hr{
+		width: 90%;
+	}
+
+	h1, h2, h3, h4, h5, h6, p, a{
+		width: 90%;
+	}
+
+	p{
+		margin-left: 0.5rem;
+	}
+}
+
+
+
