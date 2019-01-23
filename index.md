@@ -46,8 +46,8 @@ watch [this lecture](https://www.youtube.com/watch?v=x-ffpAkviM0) about dat and 
 
 Please spend some time restyling and digging through the [boilerplate files](https://github.com/leigler/ni-boilerplate). Note what areas you're confused by so we can cover them in class next week. Remember to follow the set up outlined in the readme.md file. Your restyling should focus on: 
 	- Your profile display (`loadProfile()`)
-  - your post display (loadPosts(), loadPostContent()),
-  - your post submission interface (isOwner(), writePost())
+  - your post display (`loadPosts()`, `loadPostContent()`),
+  - your post submission interface (`isOwner()`, `writePost()`)
   - (don't worry about pulling in other users just yet, we'll go over this in our next class!)
 - once you're done, please also add your website's dat url to the [spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing).
 
