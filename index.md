@@ -51,7 +51,7 @@ Please spend some time restyling and digging through the [boilerplate files](htt
   - (don't worry about pulling in other users just yet, we'll go over this in our next class!)
 - once you're done, please also add your website's dat url to the [spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing).
 
-<br>
+<hr>
 
 # Class Resources
 - [Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
