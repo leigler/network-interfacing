@@ -1,6 +1,11 @@
 ---
 ---
 
+
+$black: #3a3a3a;
+$white: #f4f4f4;
+
+
 *{
 	padding: 0;
 	margin: 0;
@@ -11,19 +16,20 @@
 
 
 html{
-	background-color: #f4f4f4;
-	color: #3a3a3a;
+	background-color: $white;
+	color: $black;
 	font-family: TimesNewRoman, "TimesNewRoman", serif;
 	font-size: 30px;
 	padding: 0.5rem;
+	padding-bottom: 10rem;
 	box-sizing: border-box;
 }
 
 hr{
 	height: 2px;
-	margin-top: 1rem;
+	margin-top: 2rem;
 	margin-bottom: 0.5rem;
-	background-color: #3a3a3a;
+	background-color: $black;
 	border: none;
 	width: 50%;
 
@@ -39,8 +45,34 @@ h1, h2, h3, h4, h5, h6, p, a{
 	width: 50%;
 }
 
-p{
+code.highlighter-rouge{
+	font-family: 'courier new', couriernew, courier, monospace;
+	font-weight: lighter;
+	font-size: 0.75rem;
+	padding-left: 0.15rem;
+	padding-right: 0.15rem;
+	background-color: $black;
+	color: $white;
+}
+
+p, ul{
 	margin-left: 1rem;
+}
+
+ul{
+	list-style: none;
+}
+
+li:before{
+	content: "";
+	display: inline-block;
+	width: 1rem;
+	margin-bottom: 0.15rem;
+	margin-right: 0.25rem;
+	transform: rotate(-10deg);
+	height: 2px;
+	border-radius: 1px;
+	background-color: $black;
 }
 
 @media(max-width: 1000px){
@@ -57,7 +89,7 @@ p{
 		width: 90%;
 	}
 
-	p{
+	p, ul{
 		margin-left: 0.5rem;
 	}
 }

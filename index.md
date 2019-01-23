@@ -45,7 +45,7 @@ watch [this lecture](https://www.youtube.com/watch?v=x-ffpAkviM0) about dat and 
 ### Assignment:
 
 Please spend some time restyling and digging through the [boilerplate files](https://github.com/leigler/ni-boilerplate). Note what areas you're confused by so we can cover them in class next week. Remember to follow the set up outlined in the readme.md file. Your restyling should focus on: 
-	- Your profile display (loadProfile())
+	- Your profile display (`loadProfile()`)
   - your post display (loadPosts(), loadPostContent()),
   - your post submission interface (isOwner(), writePost())
   - (don't worry about pulling in other users just yet, we'll go over this in our next class!)
