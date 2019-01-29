@@ -27,6 +27,23 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## January 29
+### In-class:
+- Assignment review, questions, and group conversation regarding reading
+- In a group of three: let’s re-do the first exercise and post to the network through your interface.
+- DatArchive and Sprint 2 introduction
+
+### Reading:
+[My website is a shifting house next to a river of knowledge. What could yours be?](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/) by Laurel Schwulst
+
+### Assignment: 
+DatArchive API<br>Build / publish a stand-alone dat website. Consider, what would you want to host in a distributed network? What is the format of the medium best suited for? 
+	- If you are comfortable, use the DatArchive API to read and write a JSON file (i.e. your website should read the contents and append it to the DOM. Your site should also offer some sort of interface that can update the file). 
+	- Goal <br> This sprint should be used to become more comfortable with the concepts of the Dat network and the DatArchive API. Feel free to play around with the API’s different methods.
+
+
+
+
 ## January 22
 
 ### In-class: 
@@ -38,7 +55,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 ### Reading:
 
-[Thoughtless Acts](https://arena-attachments.s3.amazonaws.com/3476765/1b3df7e9a666ff9bd1eb2e24a1adaf2e.pdf?1548259343) (here's the [are.na channel](https://www.are.na/callil-capuozzo/thoughtless-acts)) 
+[Thoughtless Acts](https://arena-attachments.s3.amazonaws.com/3476765/1b3df7e9a666ff9bd1eb2e24a1adaf2e.pdf?1548259343) by Jane Fulton Suri (here's the [are.na channel](https://www.are.na/callil-capuozzo/thoughtless-acts)) 
 
 watch [this lecture](https://www.youtube.com/watch?v=x-ffpAkviM0) about dat and the beaker browser.
 
