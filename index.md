@@ -42,6 +42,10 @@ DatArchive API<br>Build / publish a stand-alone dat website. Consider, what woul
 - If you are comfortable, use the DatArchive API to read and write a JSON file (i.e. your website should read the contents and append it to the DOM. Your site should also offer some sort of interface that can update the file). 
 - Goal <br> This sprint should be used to become more comfortable with the concepts of the Dat network and the DatArchive API. Feel free to play around with the API’s different methods.
 
+### Post Prompt: 
+
+Networks in New York. Document (via writing, photography, sketching) a physical network you encounter. Pay attention to the stops and passages, points of collective and individual behaviours, and how the physical directs the network’s behaviour.
+
 
 
 
