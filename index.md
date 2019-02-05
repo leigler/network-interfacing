@@ -40,6 +40,9 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 ### Assignment: 
 Complete your group&rsquo;s in-class assignment for review next class. 
 
+### Prompt:
+Which interface influences you the most? Howcome?
+
 ## January 29
 ### In-class:
 - Assignment review, questions, and group conversation regarding reading
