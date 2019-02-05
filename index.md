@@ -27,6 +27,18 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## February 5
+### In-class: 
+- DatArchive API lecture/demo ([demo files here](/materials/datarchivedemo.zip))
+- Further code base dissection/questions
+- [Group Exercise](/feb-05)
+
+### Reading: 
+- [Mosaic of Subcultures](https://arena-attachments.s3.amazonaws.com/3446637/73f1892b2b29bfbad2d757db55cd4764.pdf?1547922020)
+
+### Assignment: 
+Complete your group&rsquo;s in-class assignment for review next class. 
+
 ## January 29
 ### In-class:
 - Assignment review, questions, and group conversation regarding reading

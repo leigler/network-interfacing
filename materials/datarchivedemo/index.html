@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>DatArchive Demo</title>
+	<style type="text/css">
+		
+		*{
+			box-sizing: border-box;
+			padding: 0;
+			margin: 0;
+			font-weight: 300;
+			font-size: 20px;
+		}
+
+		body{
+			padding: 0.5rem;
+		}
+
+	</style>
+</head>
+<body>
+
+	<h1>datArchive Demo</h1>
+	<hr>
+	<h2>reference docs can be found <a href="https://beakerbrowser.com/docs/apis/dat" target="_blank">here</a></h2>
+	<br>
+	<br>
+	<div id="readFile"></div>
+
+
+
+<script type="text/javascript">
+	
+	// call the dat archive instance: 
+	var datUrl = window.location.toString()
+	var archive = new DatArchive(datUrl)
+	// archive.url // get info regarding datArchive instance.
+
+	// using readFile()
+	async function reading(archive){
+		var fileToRead = await archive.readFile("/contents/test.json")
+
+		console.log("fileToRead: ", fileToRead)
+
+		return fileToRead
+	}
+
+	reading(archive)
+	.then(function(returnedValue){
+		returnedValue = JSON.parse(returnedValue);
+
+		console.log("returnedValue: ", returnedValue)
+
+		var mount = document.getElementById("readFile")
+
+		mount.insertAdjacentHTML("beforeend", `
+			<h1>${returnedValue.title}</h1>
+			<p>${returnedValue.text}</p>
+		`);
+
+	})
+	.catch(function(error){
+		console.log("error: ", error)
+	})
+
+
+	// using writeFile()
+	async function writing(archive, fileContents){
+		fileContents = JSON.stringify(fileContents)
+
+		var fileToWrite = await archive.writeFile("/contents/newFile.json", fileContents)
+
+		return fileToWrite
+	}
+
+	// our new post contents: 
+	var fileContents = {
+		"title" : "this is a new file",
+		"text" : "included is some brand new content!"
+	}
+
+	writing(archive, fileContents)
+	.then(function(returnedInfo){
+		
+	})
+	.catch(function(error){
+		console.log("error: ", error)
+
+	})
+
+
+
+
+</script>
+</body>
+</html>
