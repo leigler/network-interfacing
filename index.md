@@ -31,6 +31,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 ### In-class: 
 - DatArchive API lecture/demo ([demo files here](/materials/datarchivedemo.zip))
 - Further code base dissection/questions
+- [Link dat urls to network!](/network-setup)
 - [Group Exercise](/feb-05)
 
 ### Reading: 
