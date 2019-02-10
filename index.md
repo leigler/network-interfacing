@@ -38,7 +38,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 - [Mosaic of Subcultures](https://arena-attachments.s3.amazonaws.com/3446637/73f1892b2b29bfbad2d757db55cd4764.pdf?1547922020)
 
 ### Assignment: 
-Complete your group&rsquo;s in-class assignment for review next class. 
+Complete your group&rsquo;s [in-class assignment](/feb-05) for review next class. 
 
 ### Prompt:
 Which interface influences you the most? Howcome?
@@ -95,3 +95,4 @@ Please spend some time restyling and digging through the [boilerplate files](htt
 - [Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
 - [Are.na](https://www.are.na/lukas-eigler-harding/network-interfacing-awk1kkas5aw)
 - [Boilerplate](https://github.com/leigler/ni-boilerplate)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing)
