@@ -27,6 +27,24 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## February 12
+### In-class: 
+- Class discussion on [Mosaic of Subcultures](https://arena-attachments.s3.amazonaws.com/3446637/73f1892b2b29bfbad2d757db55cd4764.pdf?1547922020)
+- Group-led feedback session re: [Group Interface Exercise](/feb-05)
+- Class-wide review of [Group Interface Exercise](/feb-05)
+- [Enhancement Assignment](/enhancement) Introduction + Demo
+- Work Period
+
+### Reading:
+- [Silicon Valley’s Sixty-Year Love Affair with the Word “Tool”](https://www.newyorker.com/tech/annals-of-technology/silicon-valleys-sixty-year-love-affair-with-the-word-tool)
+
+### Assignment: 
+- Research and prepare three *distinct* functions/features/futures for our network. Full assignment description can be found [here](/enhancement).
+
+### Prompt: 
+
+
+
 ## February 5
 ### In-class: 
 - DatArchive API lecture/demo ([demo files here](/materials/datarchivedemo.zip))
