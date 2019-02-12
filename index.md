@@ -42,7 +42,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 - Research and prepare three *distinct* functions/features/futures for our network. Full assignment description can be found [here](/enhancement).
 
 ### Prompt: 
-
+Describe a fictional interface you recently came in contact with. What features felt familiar (and how were the signified)? What felt like hyperbole?
 
 
 ## February 5
