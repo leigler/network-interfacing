@@ -39,7 +39,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 - [Silicon Valley’s Sixty-Year Love Affair with the Word “Tool”](https://www.newyorker.com/tech/annals-of-technology/silicon-valleys-sixty-year-love-affair-with-the-word-tool)
 
 ### Assignment: 
-- Research and prepare three *distinct* functions/features/futures for our network. Full assignment description can be found [here](/enhancement).
+- Research and prepare three *distinct* functions/features/futures for our network. Full assignment description can be found [here](/enhancement#week-1).
 
 ### Prompt: 
 Describe a fictional interface you recently came in contact with. What features felt familiar (and how were the signified)? What felt like hyperbole?
