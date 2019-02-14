@@ -32,7 +32,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 - Class discussion on [Mosaic of Subcultures](https://arena-attachments.s3.amazonaws.com/3446637/73f1892b2b29bfbad2d757db55cd4764.pdf?1547922020)
 - Group-led feedback session re: [Group Interface Exercise](/feb-05)
 - Class-wide review of [Group Interface Exercise](/feb-05)
-- [Enhancement Assignment](/enhancement) Introduction + Demo
+- [Enhancement Assignment](/enhancement) Introduction + [Demo](/callil-online-tags.zip)
 - Work Period
 
 ### Reading:
