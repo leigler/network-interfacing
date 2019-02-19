@@ -11,8 +11,17 @@ permalink: "enhancement"
 
 ## Enhancement (functions/features/futures)
 
+### Week 2
+For February 26, select one of your feature proposals and begin developing it based on the conversations we had in class. If you are working with a partner, take this week to figure out a good work-flow and how best to divide tasks. 
+
+- As you begin, try and consider *where* and *how* this feature is best implemented (i.e. at the profile or post level, or purely at the interface level?).
+- Consider also, how this feature might build off of existing features or how your feature might collaborate with features other students are working on.
+- Finally consider how to abstract your function for the most flexibility. What might fellow network participants want to do with this feature? What variables does your function need to work? What conditionals are set up to protect users from breaking their site (i.e. where does the error message go?)?
+
+
+
 ### Week 1
-For February 20, research and prepare three distinct feature proposals. These should each be formatted in a presentable manner and outline: 
+For February 19, research and prepare three distinct feature proposals. These should each be formatted in a presentable manner and outline: 
 - the suggested feature
 - the purpose of the respective feature
 - a visual example of implementation (i.e. what do tags look like to add? to use? what can they be used for?)

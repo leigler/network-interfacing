@@ -27,6 +27,23 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## February 19
+### In-class:
+- Class discussion on [Silicon Valley’s Sixty-Year Love Affair with the Word “Tool”](https://www.newyorker.com/tech/annals-of-technology/silicon-valleys-sixty-year-love-affair-with-the-word-tool) text
+- Conversation with are.na
+- Class critique on proposed features
+
+### Reading:
+- Olia Lialina&rsquo;s [Turing Complete User](http://contemporary-home-computing.org/turing-complete-user/)
+- American Artist&rsquo;s [Black Gooey Universe](http://unbag.net/issue-2-end/black-gooey-universe/)
+
+### Assignment:
+[Enhancement, Week 2](/enhancement#week-2)<br>
+Choose a feature and begin developing it. Take note of questions and problems you run into. 
+
+### Prompt: 
+Watch a few (at least 3) friends interact with the same interface and document their behaviour. How have they made the interface theirs? What behaviours are consistent? How doe their interaction-flows differ?
+
 ## February 12
 ### In-class: 
 - Class discussion on [Mosaic of Subcultures](https://arena-attachments.s3.amazonaws.com/3446637/73f1892b2b29bfbad2d757db55cd4764.pdf?1547922020)
@@ -76,7 +93,7 @@ DatArchive API<br>Build / publish a stand-alone dat website. Consider, what woul
 - If you are comfortable, use the DatArchive API to read and write a JSON file (i.e. your website should read the contents and append it to the DOM. Your site should also offer some sort of interface that can update the file). 
 - Goal <br> This sprint should be used to become more comfortable with the concepts of the Dat network and the DatArchive API. Feel free to play around with the API’s different methods.
 
-### Post Prompt: 
+### Prompt: 
 
 Networks in New York. Document (via writing, photography, sketching) a physical network you encounter. Pay attention to the stops and passages, points of collective and individual behaviours, and how the physical directs the network’s behaviour.
 
