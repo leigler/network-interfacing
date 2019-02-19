@@ -30,7 +30,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 ## February 19
 ### In-class:
 - Class discussion on [Silicon Valley’s Sixty-Year Love Affair with the Word “Tool”](https://www.newyorker.com/tech/annals-of-technology/silicon-valleys-sixty-year-love-affair-with-the-word-tool) text
-- Conversation with are.na
+- Conversation with Cab from are.na ([notes](materials/are-na-convo-feb-19.md))
 - Class critique on proposed features
 
 ### Reading:
