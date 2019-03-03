@@ -27,6 +27,17 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## February 26
+### In-class:
+- Class discussion in response to [Turing Complete User](http://contemporary-home-computing.org/turing-complete-user/) and [Black Gooey Universe](http://unbag.net/issue-2-end/black-gooey-universe/)
+- Individual check-ins and work session<br>(Use this in-class setting to pair up and plan out strategies for building your site. Solicit advice regarding how your feature should be customizable (i.e. what variables do you pass into your function)).
+
+### Reading:
+- James Bridle's [Something is wrong with the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
+
+### Assignment
+- Continue clarifying and building out your core feature. Clarify its use-case, what variables user's might be able to manipulate, and how it might influence our network as a whole.
+
 ## February 19
 ### In-class:
 - Class discussion on [Silicon Valley’s Sixty-Year Love Affair with the Word “Tool”](https://www.newyorker.com/tech/annals-of-technology/silicon-valleys-sixty-year-love-affair-with-the-word-tool) text
