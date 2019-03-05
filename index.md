@@ -27,6 +27,18 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## March 5
+### In-class:
+- Class discussion in response to James Bridle's [Something is wrong with the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
+- Work session on Feature, individual check-ins
+
+### Assignment
+- Continue developing your feature. Take some time this week to prepare a mock-up of documentation/installation instructions. Consider how you will frame this feature to fellow network-users. What benefit does your feature offer? How is it used? How is it installed? Is it customizable (if so, how do you show this?)?
+
+### Prompt
+Find a fellow network user's post and create a post in reaction to it.
+
+
 ## February 26
 ### In-class:
 - Class discussion in response to [Turing Complete User](http://contemporary-home-computing.org/turing-complete-user/) and [Black Gooey Universe](http://unbag.net/issue-2-end/black-gooey-universe/)
