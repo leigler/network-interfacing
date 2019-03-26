@@ -34,7 +34,7 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 - Preparing for crit
 
 ### Assignment
-- Enhancement, prepare presentation/documentation for next week.<br><br>For a full timeline, check out the [Enhancement Timeline](/enhancement#timeline)
+- Enhancement, prepare presentation/documentation for next week.<br>For a full timeline, check out the [Enhancement Timeline](/enhancement#timeline)
 
 ### Prompt
 Look at a photo you took over break, what networks are present in it? How are they present? Where do they converge?
