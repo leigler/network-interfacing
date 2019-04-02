@@ -27,6 +27,13 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## April 2
+### In-class:
+- Feature Presentations
+- Installation Session
+
+### Assignment
+- Install and *use* at least two features other than your own. Acquaint yourself with the feature's code and take notes on questions and improvements you have in preparation for next class.
 
 ## March 26
 ### In-class:
