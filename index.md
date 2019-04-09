@@ -16,9 +16,10 @@ January 22, 2019 – May 7, 2019<br>
 Tuesdays, 12:10pm – 2:50pm<br>
 6 East 16th Street, Rm. 1618<br>
 
-[Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
-
-[Are.na](https://www.are.na/lukas-eigler-harding/network-interfacing-awk1kkas5aw)
+- [Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
+- [Are.na](https://www.are.na/lukas-eigler-harding/network-interfacing-awk1kkas5aw)
+- [Class Resources](#class-resources)
+- [Schedule](#april-9)
 
 Callil Capuozzo – capuozzc@newschool.edu<br>
 Lukas Eigler-Harding – eigll343@newschool.edu<br>
@@ -26,6 +27,19 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 
 <hr>
+
+## April 9
+### In-class:
+- American Interfaces Lecture w/ Ed
+- Virtual People, IRL Spaces + American Interfaces Discussion
+- Building Filters workshop w/ Callil
+
+### Assignments
+- Continue developing your feature
+- Now that you've installed a feature, fully integrate it into your interface and use it for the upcoming prompt (for next class, we will fully review the features and their implementations):
+
+### Prompt
+Reflect on the feature you've installed: Why have you chosen it? Are there variations of the feature present on networks you're familiar with? What kind of customizations (prescribed or ad-hoc) have you introduced while integrating the feature into your interface?
 
 ## April 2
 ### In-class:
@@ -174,8 +188,10 @@ Please spend some time restyling and digging through the [boilerplate files](htt
 
 <hr>
 
-# Class Resources
+## Class Resources
 - [Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
 - [Are.na](https://www.are.na/lukas-eigler-harding/network-interfacing-awk1kkas5aw)
 - [Boilerplate](https://github.com/leigler/ni-boilerplate)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing)
+
+[Top of page?](#network-interfacing)
