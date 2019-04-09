@@ -30,8 +30,8 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 ## April 9
 ### In-class:
-- American Interfaces Lecture w/ Ed
-- Virtual People, IRL Spaces + American Interfaces Discussion
+<!-- - American Interfaces Lecture w/ Ed -->
+- Virtual People, IRL Spaces Discussion
 - Building Filters workshop w/ Callil
 
 ### Assignments
