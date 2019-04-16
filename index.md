@@ -37,9 +37,10 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 ### Assignment
 - Based off of today's reflection and feedback, continue to improve your interface design for further review next week.
 - Additionally continue to develop your feature and the narrative around it.
+- 
 
-<!-- ### Prompt
-- formalize and publish your goals for the rest of the semester.  -->
+### Prompt
+- Take a moment and review the [prompts](#prompts) from the semester. Make sure you're up-to-date!
 
 ## April 9
 ### In-class:
