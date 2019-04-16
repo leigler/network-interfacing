@@ -22,7 +22,7 @@ Take the first part of class to reflect on your interface's design and functiona
 - Are there any bugs? Do they impede on the interface's baseline functionality?
 
 ## Part 2
-Switch interfaces with a classmate and provide a written critique of their interface answering the following questions: 
+Switch interfaces with a classmate and provide a written critique of their interface answering the following (similar) questions:
 - What is the goal of their interface? What content does it privilege? 
 - What parts of their design do you find most resolved? What areas feel unresolved? 
 - Which designed feature did they implement? How does it fit into the overall design of their interface?

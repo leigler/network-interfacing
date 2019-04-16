@@ -210,6 +210,7 @@ Please spend some time restyling and digging through the [boilerplate files](htt
 [Top of page?](#network-interfacing)
 
 ## Prompts
+- (_April 16_) [Interface Reflection](/reflection)
 - (_April 9_) Reflect on the feature you've installed: Why have you chosen it? Are there variations of the feature present on networks you're familiar with? What kind of customizations (prescribed or ad-hoc) have you introduced while integrating the feature into your interface?
 - (_March 26_) Look at a photo you took over break, what networks are present in it? How are they present? Where do they converge?
 - (_March 5_) Find a fellow network user's post and create a post in reaction to it.
