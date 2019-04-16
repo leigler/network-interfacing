@@ -207,8 +207,6 @@ Please spend some time restyling and digging through the [boilerplate files](htt
 - [Boilerplate](https://github.com/leigler/ni-boilerplate)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing)
 
-[Top of page?](#network-interfacing)
-
 ## Prompts
 - (_April 16_) [Interface Reflection](/reflection)
 - (_April 9_) Reflect on the feature you've installed: Why have you chosen it? Are there variations of the feature present on networks you're familiar with? What kind of customizations (prescribed or ad-hoc) have you introduced while integrating the feature into your interface?
@@ -218,3 +216,7 @@ Please spend some time restyling and digging through the [boilerplate files](htt
 - (_February 12_) Describe a fictional interface you recently came in contact with. What features felt familiar (and how were the signified)? What felt like hyperbole?
 - (_February 5_) Which interface influences you the most? Howcome?
 - (_January 29_) Networks in New York. Document (via writing, photography, sketching) a physical network you encounter. Pay attention to the stops and passages, points of collective and individual behaviours, and how the physical directs the network’s behaviour.
+
+<hr>
+
+[Top of page?](#network-interfacing)
