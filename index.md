@@ -19,6 +19,7 @@ Tuesdays, 12:10pm – 2:50pm<br>
 - [Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
 - [Are.na](https://www.are.na/lukas-eigler-harding/network-interfacing-awk1kkas5aw)
 - [Class Resources](#class-resources)
+- [Network Prompts](#prompts)
 - [Schedule](#april-9)
 
 Callil Capuozzo – capuozzc@newschool.edu<br>
@@ -28,11 +29,23 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 <hr>
 
+## April 16
+### In-class:
+- [Interface reflection](/reflection)
+- Group interface critique
+
+### Assignment
+- Based off of today's reflection and feedback, continue to improve your interface design for further review next week.
+- Additionally continue to develop your feature and the narrative around it.
+
+<!-- ### Prompt
+- formalize and publish your goals for the rest of the semester.  -->
+
 ## April 9
 ### In-class:
-<!-- - American Interfaces Lecture w/ Ed -->
 - Virtual People, IRL Spaces Discussion
 - Building Filters workshop w/ Callil
+- American Interfaces Lecture w/ Ed
 
 ### Assignments
 - Continue developing your feature
@@ -195,3 +208,12 @@ Please spend some time restyling and digging through the [boilerplate files](htt
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing)
 
 [Top of page?](#network-interfacing)
+
+## Prompts
+- (_April 9_) Reflect on the feature you've installed: Why have you chosen it? Are there variations of the feature present on networks you're familiar with? What kind of customizations (prescribed or ad-hoc) have you introduced while integrating the feature into your interface?
+- (_March 26_) Look at a photo you took over break, what networks are present in it? How are they present? Where do they converge?
+- (_March 5_) Find a fellow network user's post and create a post in reaction to it.
+- (_February 19_) Watch a few (at least 3) friends interact with the same interface and document their behaviour. How have they made the interface theirs? What behaviours are consistent? How doe their interaction-flows differ?
+- (_February 12_) Describe a fictional interface you recently came in contact with. What features felt familiar (and how were the signified)? What felt like hyperbole?
+- (_February 5_) Which interface influences you the most? Howcome?
+- (_January 29_) Networks in New York. Document (via writing, photography, sketching) a physical network you encounter. Pay attention to the stops and passages, points of collective and individual behaviours, and how the physical directs the network’s behaviour.
