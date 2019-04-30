@@ -18,6 +18,7 @@ Tuesdays, 12:10pm – 2:50pm<br>
 
 - [Syllabus](https://docs.google.com/document/d/1JAy2ZLA5ISa9wFIfqnSQG6LhPDbF9fc1_lYOQl2LeVo/edit?usp=sharing)
 - [Are.na](https://www.are.na/lukas-eigler-harding/network-interfacing-awk1kkas5aw)
+- [Class Spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit?usp=sharing)
 - [Class Resources](#class-resources)
 - [Network Prompts](#prompts)
 - [Schedule](#april-9)
@@ -28,6 +29,24 @@ Lukas Eigler-Harding – eigll343@newschool.edu<br>
 
 
 <hr>
+
+## April 30
+### In-class
+- Course Evaluation
+- Continue refining your [Interfaces + Features](/final-points)
+
+### Assignment
+- Update your links on the [spreadsheet](https://docs.google.com/spreadsheets/d/1VTTNBRftvCj-_L-M8hwBZuwXps4wBGrrRB6rER0Kqzc/edit#gid=0) to a dat url for your Interface and your Feature. 
+- Finalize your Interface and Feature and prepare for presentation.
+- Make sure your Interface lists all your responses to the [Prompts](#prompts) throughout the semester.
+
+## April 23
+### In-class
+- Next Steps and Resolution
+- Work session + Individual Check-ins
+
+### Assignment
+- Continue refining your [Interfaces + Features](/final-points)
 
 ## April 16
 ### In-class:
@@ -118,7 +137,7 @@ Find a fellow network user's post and create a post in reaction to it.
 Choose a feature and begin developing it. Take note of questions and problems you run into. 
 
 ### Prompt: 
-Watch a few (at least 3) friends interact with the same interface and document their behaviour. How have they made the interface theirs? What behaviours are consistent? How doe their interaction-flows differ?
+Watch a few (at least 3) friends interact with the same interface and document their behaviour. How have they made the interface theirs? What behaviours are consistent? How does their interaction-flows differ?
 
 ## February 12
 ### In-class: 
